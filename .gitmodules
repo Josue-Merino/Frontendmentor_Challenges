@@ -1,0 +1,12 @@
+[submodule "projects/Recipe_Challenge"]
+	path = projects/Recipe_Challenge
+	url = git@github.com:Josue-Merino/Recipe_Challenge.git
+[submodule "projects/Social_links_card"]
+	path = projects/Social_links_card
+	url = git@github.com:Josue-Merino/Social_links_card.git
+[submodule "projects/Interactive_rating_component"]
+	path = projects/Interactive_rating_component
+	url = git@github.com:Josue-Merino/Interactive_rating_component.git
+[submodule "projects/AQ_Accordion"]
+	path = projects/AQ_Accordion
+	url = git@github.com:Josue-Merino/AQ_Accordion.git
