@@ -10,3 +10,6 @@
 [submodule "projects/AQ_Accordion"]
 	path = projects/AQ_Accordion
 	url = git@github.com:Josue-Merino/AQ_Accordion.git
+[submodule "projects/component-with-signup-form"]
+	path = projects/component-with-signup-form
+	url = git@github.com:Josue-Merino/component-with-signup-form.git
